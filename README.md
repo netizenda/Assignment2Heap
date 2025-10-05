@@ -123,7 +123,7 @@ The Max-Heap implementation achieved Θ(log n) complexity for key operations and
 Constant factors (CPU cache, GC) explain minor variations in timing.  
 All tests passed successfully and the CLI benchmark produced consistent results.
 
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 
 

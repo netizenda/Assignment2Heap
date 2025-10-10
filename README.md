@@ -1,6 +1,6 @@
-# Assignment 2 – Algorithmic Analysis (Pair 4: Max-Heap)
+# Assignment 2
 
-### Student B — Max-Heap Implementation
+### MaxHeap Implementation
 This project implements a Max-Heap (priority queue) with support for:
 - insert(value) — adds an element
 - extractMax() — removes and returns the largest element
